@@ -1,0 +1,15 @@
+Userscenario
+Peter have made a cake with our product. On the product package he reads about the lottery/competition and uses the QR code to go to the lottery/competition landing page of the website where he can see photos from the 5 last entries in the lottery/competition and a form.
+He types in The name of his cake, his email and takes a photo of the cake. When he presses enter he recieves an errormessage or a Thank You for entering.
+Next day he makes a new cake and goes to the lottery/competition part of the webpage, this time there is no form and inputfields but only a message saying "Sorry, only one entry per week".
+
+Peter is a smart guy so he deletes our cookie in his browser and tries again. This time he gets the form, but when he submits his new picture he gets the same message: "Sorry, You are a smart cookiekiller, but you can only make one entry per week".
+
+When the week has gone he recieves an email stating that he did not win (unless he is the winner). In the email may also be offers of our products.
+
+
+Ownerscenario
+Helle is the administrator of the lottery/competitions. She works in the marketing department of the company and has a window open all day that shows the pictures that was entered last. She has to click on a V or an X to approve or delete the image (X in case it is political porn). Either way the picture is removed from the window. Peter is only shown approved images.
+
+Every friday she visits the drawing page for the lottery. It shows the number of entries this week. Here she enters the text for the loosers (including this weeks offering) select the number of winners and presses the DRAW key. The webpage then displays the winners photo(s) and cake name(s).
+
