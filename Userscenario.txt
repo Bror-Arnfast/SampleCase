@@ -9,16 +9,11 @@ When the week has gone he recieves an email stating that he did not win (unless 
 
 
 Ownerscenario
-Helle is the administrator of the lottery/competitions. She works in the marketing department of the company and has a window open all day that shows the pictures that was entered last. She has to click on a V or an X to approve or delete the image (X in case it is political porn). Either way the picture is removed from the window. Peter is only shown approved images.
+Helle is the administrator of the lottery/competitions. She works in the marketing department of the company and has a window open all day that shows the pictures that was entered last. She has to click on a V or an X to approve or delete the image (X in case it is political porn). Either way the picture is removed from the window. Only approved images will be shown to Peter the visitor.
 
 Every friday she visits the drawing page for the lottery. It shows the number of entries this week. Here she enters the text for the loosers (including this weeks offering) select the number of winners and presses the DRAW key. The webpage then displays the winners photo(s) and cake name(s).
 
 
 Helle can now start a new competition by entering the theme of next weeks competition and press "Delete last week and start new". All folders will be cleared to accept new submissions.
-
-
-
-
-
 
 
