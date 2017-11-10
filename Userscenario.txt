@@ -13,3 +13,12 @@ Helle is the administrator of the lottery/competitions. She works in the marketi
 
 Every friday she visits the drawing page for the lottery. It shows the number of entries this week. Here she enters the text for the loosers (including this weeks offering) select the number of winners and presses the DRAW key. The webpage then displays the winners photo(s) and cake name(s).
 
+
+Helle can now start a new competition by entering the theme of next weeks competition and press "Delete last week and start new". All folders will be cleared to accept new submissions.
+
+
+
+
+
+
+
